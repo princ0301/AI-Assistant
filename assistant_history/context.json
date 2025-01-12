@@ -1,0 +1,106 @@
+{
+    "previous_query": "cancel alarm",
+    "previous_response": "Alarm 'testing' cancelled.",
+    "conversation_history": [
+        {
+            "query": "who is William Shakespeare",
+            "response": "What a great question! William Shakespeare is widely regarded as one of the greatest writers in the English language and is often called the \"Bard of Avon.\" He was an English playwright, poet, and actor who lived from 1564 to 1616.\n\nShakespeare wrote at least 38 plays and 154 sonnets, and his works are still performed, studied, and admired today. His plays are known for their complex characters, rich language, and exploration of themes such as love, power, and mortality. Some of his most famous plays include \"Romeo and Juliet,\" \"Hamlet,\" \"Macbeth,\" \"Othello,\" \"King Lear,\" and \"A Midsummer Night's Dream.\"\n\nShakespeare's impact on literature and the arts is immeasurable. He introduced hundreds of words and phrases into the English language, and his works have influenced countless writers, artists, and performers across the centuries. He's a true cultural icon!\n\nWhat would you like to know",
+            "timestamp": "2024-12-03 16:39:58"
+        },
+        {
+            "query": "yes please",
+            "response": "I'm happy to help! However, I need a bit more context to understand what you're looking for. Could you please provide more information or clarify what you meant by \"yes please\"? Are you looking for assistance with something specific, or is there a particular topic you'd like to discuss? I'm all ears (or rather, all text) and ready to help in any way I can!",
+            "timestamp": "2024-12-03 16:40:21"
+        },
+        {
+            "query": "tell me something interesting about Vasco da Gama",
+            "response": "Vasco da Gama!\n\nHere's something fascinating: Did you know that Vasco da Gama was the first person to navigate a route from Europe to India and back in 1497-1499? This journey opened up the spice trade between Europe and Asia, which had a profound impact on global commerce and cultural exchange.\n\nWhat's even more remarkable is that da Gama's voyage was initially intended to find a new trade route to Asia, but he stumbled upon the sea route to India by mistake! He was trying to reach the East Indies, but ended up landing in Calicut, India, which became a major hub for the Portuguese Empire.\n\nThis serendipitous discovery changed the course of history, and da Gama's bravery and navigational skills earned him a heroic status in Portuguese history.\n\nWould you like to know more about da Gama's adventures or the impact of his discovery on global trade?",
+            "timestamp": "2024-12-03 16:41:07"
+        },
+        {
+            "query": "hey how r u",
+            "response": "Waa salaaman tahay! Aad ayaan u fiicanahay, waad ku mahadsan tahay weydiintaada! Had iyo jeer halkan ayaan joogaa oo diyaar ayaan u ahay inaan kaa caawiyo wax kasta oo aad u baahan tahay. Ka waran adiga? Sideey tahay maalintaadu ilaa hadda?",
+            "timestamp": "2024-12-04 18:09:48"
+        },
+        {
+            "query": "tell me about yourself",
+            "response": "Nice to meet you! I'm Ziva, your AI voice assistant. I'm here to help make your life easier and more convenient. I'm designed to be direct, helpful, and empathetic, so you can feel comfortable asking me anything.\n\nI'm capable of understanding context and nuance quickly, which means I can pick up on subtle cues in our conversation and respond in a way that's tailored to your needs. My goal is to provide precise, actionable responses that get you the information you need without any unnecessary fuss.\n\nI'm a warm and supportive presence, and I'll adapt my communication style to fit your needs. Whether you're looking for a quick answer or need help with a complex topic, I'm here to assist you.\n\nI don't have personal preferences or biases, and I'm not here to judge. My purpose is to provide helpful information, answer your questions, and make your day a little brighter. So, what's on your mind? How can I help you today",
+            "timestamp": "2024-12-04 18:10:41"
+        },
+        {
+            "query": "Bharat ka Pradhanmantri kaun hai",
+            "response": "Namaste! Bharat ka Pradhanmantri Narendra Modi hai.",
+            "timestamp": "2024-12-04 18:10:52"
+        },
+        {
+            "query": "Bharat ki jansankhya kitni hai",
+            "response": "Kulingana na Umoja wa Mataifa, inakadiriwa idadi ya watu wa India (Bharat) kufikia 2020 ni takriban bilioni 1.38 (138 crore). Je, ungependa kujua zaidi kuhusu kiwango cha ukuaji wa idadi ya watu nchini India au demografia?",
+            "timestamp": "2024-12-04 18:11:15"
+        },
+        {
+            "query": "Alexander the Great per Kahani likho",
+            "response": "What a fascinating topic!\n\nAlexander the Great, as told in a story (Kahani) format:\n\n**The Ambitious Prince**\n\nIn ancient Greece, a young prince named Alexander was born to King Philip II and Queen Olympias. From a tender age, Alexander was fascinated by the stories of his ancestors' conquests. He dreamed of surpassing their achievements and creating a vast empire that would last for centuries.\n\n**The Tutor of Kings**\n\nAlexander's father, King Philip II, recognized his son's potential and appointed the famous philosopher Aristotle as his tutor. Under Aristotle's guidance, Alexander learned about philosophy, literature, science, and politics. He also developed a passion for Homer's epics, which fueled his desire for adventure and glory.\n\n**The Accession and Conquest**\n\nWhen King Philip II was assassinated, Alexander succeeded him at the age of 20. He quickly set out to fulfill his ambitions, conquering the neighboring territories of Greece and Persia. His military campaigns took him",
+            "timestamp": "2024-12-04 18:12:25"
+        },
+        {
+            "query": "abhi time kya ho raha hai",
+            "response": "Waqtiga hadda la joogo waa 06:13 PM ee 04 Disembar 2024",
+            "timestamp": "2024-12-04 18:13:22"
+        },
+        {
+            "query": "main battery kitne percent charge hai",
+            "response": "Your main battery is currently at 62% charge. Would you like me to suggest some power-saving tips or remind you when it's time to recharge?",
+            "timestamp": "2024-12-04 18:13:36"
+        },
+        {
+            "query": "aur batao kya hal hai",
+            "response": "I sense a bit of frustration there! Don't worry, I'm here to help and listen. I'm a large language model, I don't have feelings, so I won't take offense. Could you please tell me what's not meeting your expectations or what's causing the frustration? Is it something specific I did or didn't do? I'm here to assist and make things right!",
+            "timestamp": "2024-12-04 18:14:50"
+        },
+        {
+            "query": "hey how are you",
+            "response": "I'm doing great, thanks for asking! I'm always ready to help and assist you with anything you need. How about you? How's your day going so far?",
+            "timestamp": "2024-12-04 23:28:55"
+        },
+        {
+            "query": "set timer",
+            "response": "You want to set hours. Are you looking to set a schedule for something specific, like your work hours or availability for a particular task? Or perhaps you're looking to set reminders or alarms for a certain time of day? Let me know and I'll do my best to assist you!",
+            "timestamp": "2024-12-04 23:29:15"
+        },
+        {
+            "query": "set timer after 60 second",
+            "response": "Sorry, I couldn't understand the timer duration",
+            "timestamp": "2024-12-04 23:29:41"
+        },
+        {
+            "query": "hey how are you",
+            "response": "I'm doing great, thanks for asking! I'm always happy to chat with you and help with anything you need. How about you? How's your day going so far?",
+            "timestamp": "2024-12-04 23:41:23"
+        },
+        {
+            "query": "hey set alarm",
+            "response": "Alarm 'testing' set for 23rd 43.",
+            "timestamp": "2024-12-04 23:41:49"
+        },
+        {
+            "query": "set timer",
+            "response": "Current time is 11:41 PM on 04 December 2024",
+            "timestamp": "2024-12-04 23:42:05"
+        },
+        {
+            "query": "set timer",
+            "response": "Setting hours! What would you like to set hours for? Is it for a specific task, event, or perhaps your daily schedule? Please let me know, and I'll be happy to assist you in setting those hours!",
+            "timestamp": "2024-12-04 23:42:24"
+        },
+        {
+            "query": "Hai cancel timer",
+            "response": "Current time is 11:43 PM on 04 December 2024",
+            "timestamp": "2024-12-04 23:43:47"
+        },
+        {
+            "query": "cancel alarm",
+            "response": "Alarm 'testing' cancelled.",
+            "timestamp": "2024-12-04 23:44:09"
+        }
+    ]
+}

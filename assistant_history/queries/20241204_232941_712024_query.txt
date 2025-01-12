@@ -1,0 +1,1 @@
+set timer after 60 second

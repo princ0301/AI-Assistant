@@ -1,0 +1,194 @@
+2024-12-02 18:05:15,463 - DEBUG - CoInitializeEx(None, 2)
+2024-12-02 18:05:15,553 - INFO - Imported existing <module 'comtypes.gen' from 'D:\\Projects\\Llama3-Voice-Assistant\\AI Assistant\\assistant\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-12-02 18:05:15,554 - INFO - Using writeable comtypes cache directory: 'D:\Projects\Llama3-Voice-Assistant\AI Assistant\assistant\venv\Lib\site-packages\comtypes\gen'
+2024-12-02 18:05:15,635 - DEBUG - SAPI.SPVoice -> {96749377-3391-11D2-9EE3-00C04F797396}
+2024-12-02 18:05:15,635 - DEBUG - CoCreateInstance({96749377-3391-11D2-9EE3-00C04F797396}, clsctx=None, interface=None)
+2024-12-02 18:05:15,641 - DEBUG - GetBestInterface(<POINTER(IUnknown) ptr=0x19c744a13c0 at 19c79604bd0>)
+2024-12-02 18:05:15,647 - DEBUG - Does implement IProvideClassInfo
+2024-12-02 18:05:15,647 - DEBUG - Default interface is {269316D8-57BD-11D2-9EEE-00C04F797396}
+2024-12-02 18:05:15,647 - DEBUG - Release <POINTER(IUnknown) ptr=0x19c744a1400 at 19c79605050>
+2024-12-02 18:05:15,647 - DEBUG - GetModule(TLIBATTR(GUID={C866CA3A-32F7-11D2-9602-00C04F8EE628}, Version=5.4, LCID=0, FLags=0x8))
+2024-12-02 18:05:15,651 - DEBUG - Implements default interface from typeinfo <class 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4.ISpeechVoice'>
+2024-12-02 18:05:15,651 - DEBUG - Final result is <POINTER(ISpeechVoice) ptr=0x19c744a1400 at 19c79604fd0>
+2024-12-02 18:05:15,651 - DEBUG - Release <POINTER(IProvideClassInfo) ptr=0x19c744a1420 at 19c79604c50>
+2024-12-02 18:05:15,651 - DEBUG - Release <POINTER(ITypeInfo) ptr=0x19c78391678 at 19c79604cd0>
+2024-12-02 18:05:15,651 - DEBUG - Release <POINTER(ITypeInfo) ptr=0x19c783916d0 at 19c79604e50>
+2024-12-02 18:05:15,651 - DEBUG - Release <POINTER(ITypeLib) ptr=0x19c77277fe0 at 19c79605050>
+2024-12-02 18:05:15,651 - DEBUG - Release <POINTER(IUnknown) ptr=0x19c744a13c0 at 19c79604bd0>
+2024-12-02 18:05:15,651 - DEBUG - <POINTER(ISpeechVoice) ptr=0x19c744a1400 at 19c79604fd0> using sinkinterface from clsid <class 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4._ISpeechVoiceEvents'>
+2024-12-02 18:05:15,651 - DEBUG - Release <POINTER(IProvideClassInfo2) ptr=0x19c744a1420 at 19c79604bd0>
+2024-12-02 18:05:15,651 - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x0000019C78119090>: _ISpeechVoiceEvents.VoiceChange not implemented
+2024-12-02 18:05:15,651 - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x0000019C78119090>: _ISpeechVoiceEvents.Bookmark not implemented
+2024-12-02 18:05:15,651 - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x0000019C78119090>: _ISpeechVoiceEvents.Sentence not implemented
+2024-12-02 18:05:15,651 - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x0000019C78119090>: _ISpeechVoiceEvents.Phoneme not implemented
+2024-12-02 18:05:15,651 - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x0000019C78119090>: _ISpeechVoiceEvents.Viseme not implemented
+2024-12-02 18:05:15,651 - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x0000019C78119090>: _ISpeechVoiceEvents.AudioLevel not implemented
+2024-12-02 18:05:15,651 - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x0000019C78119090>: _ISpeechVoiceEvents.EnginePrivate not implemented
+2024-12-02 18:05:15,651 - DEBUG - Start advise <class 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4._ISpeechVoiceEvents'>
+2024-12-02 18:05:15,651 - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x0000019C78119090>.QueryInterface({A372ACD1-3BEF-4BBD-8FFB-CB3E2B416AF8}) -> S_OK
+2024-12-02 18:05:15,651 - DEBUG - 1 active COM objects: Added   <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x0000019C78119090>
+2024-12-02 18:05:15,651 - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x0000019C78119090>.AddRef() -> 1
+2024-12-02 18:05:15,651 - DEBUG - Release <POINTER(IConnectionPointContainer) ptr=0x19c744a1428 at 19c79606450>
+2024-12-02 18:05:15,715 - DEBUG - wrap_outparam(<POINTER(ISpeechObjectToken) ptr=0x19c744a2480 at 19c79606450>)
+2024-12-02 18:05:15,715 - DEBUG - Release <POINTER(ISpeechObjectToken) ptr=0x19c744a2480 at 19c79606450>
+2024-12-02 18:05:15,715 - DEBUG - wrap_outparam(<POINTER(ISpeechObjectTokens) ptr=0x19c7a9db690 at 19c79606450>)
+2024-12-02 18:05:15,715 - DEBUG - Release <POINTER(IUnknown) ptr=0x19c7b479b20 at 19c79606650>
+2024-12-02 18:05:15,715 - DEBUG - wrap_outparam(<POINTER(IDispatch) ptr=0x19c7b4716e0 at 19c796066d0>)
+2024-12-02 18:05:15,715 - DEBUG - GetBestInterface(<POINTER(IDispatch) ptr=0x19c7b4716e0 at 19c796066d0>)
+2024-12-02 18:05:15,715 - DEBUG - Does NOT implement IProvideClassInfo, trying IProvideClassInfo2
+2024-12-02 18:05:15,715 - DEBUG - Does NOT implement IProvideClassInfo/IProvideClassInfo2
+2024-12-02 18:05:15,715 - DEBUG - Release <POINTER(IUnknown) ptr=0x19c78391780 at 19c796068d0>
+2024-12-02 18:05:15,715 - DEBUG - Default interface is {C74A3ADC-B727-4500-A84A-B526721C8B8C}
+2024-12-02 18:05:15,715 - DEBUG - Release <POINTER(IUnknown) ptr=0x19c7b4716e0 at 19c796069d0>
+2024-12-02 18:05:15,715 - DEBUG - GetModule(TLIBATTR(GUID={C866CA3A-32F7-11D2-9602-00C04F8EE628}, Version=5.4, LCID=0, FLags=0x8))
+2024-12-02 18:05:15,715 - DEBUG - Implements default interface from typeinfo <class 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4.ISpeechObjectToken'>
+2024-12-02 18:05:15,715 - DEBUG - Final result is <POINTER(ISpeechObjectToken) ptr=0x19c7b4716e0 at 19c796068d0>
+2024-12-02 18:05:15,715 - DEBUG - Release <POINTER(IDispatch) ptr=0x19c7b4716e0 at 19c79606850>
+2024-12-02 18:05:15,715 - DEBUG - Release <POINTER(ITypeInfo) ptr=0x19c78391780 at 19c79606950>
+2024-12-02 18:05:15,715 - DEBUG - Release <POINTER(ITypeLib) ptr=0x19c77277fe0 at 19c796069d0>
+2024-12-02 18:05:15,715 - DEBUG - Release <POINTER(IDispatch) ptr=0x19c7b4716e0 at 19c796066d0>
+2024-12-02 18:05:15,715 - DEBUG - Release <POINTER(IEnumVARIANT) ptr=0x19c7b479b20 at 19c79606550>
+2024-12-02 18:05:15,715 - DEBUG - Release <POINTER(ISpeechObjectTokens) ptr=0x19c7a9db690 at 19c79606450>
+2024-12-02 18:05:15,715 - DEBUG - Release <POINTER(ISpeechObjectToken) ptr=0x19c7b4716e0 at 19c796068d0>
+2024-12-02 18:05:15,715 - DEBUG - wrap_outparam(<POINTER(ISpeechObjectTokens) ptr=0x19c7a9dc090 at 19c796068d0>)
+2024-12-02 18:05:15,715 - DEBUG - Release <POINTER(IUnknown) ptr=0x19c7b479e80 at 19c79606550>
+2024-12-02 18:05:15,715 - DEBUG - Release <POINTER(ISpeechObjectTokens) ptr=0x19c7a9dc090 at 19c796068d0>
+2024-12-02 18:05:15,715 - DEBUG - wrap_outparam(<POINTER(IDispatch) ptr=0x19c7b472a90 at 19c796065d0>)
+2024-12-02 18:05:15,715 - DEBUG - GetBestInterface(<POINTER(IDispatch) ptr=0x19c7b472a90 at 19c796065d0>)
+2024-12-02 18:05:15,715 - DEBUG - Does NOT implement IProvideClassInfo, trying IProvideClassInfo2
+2024-12-02 18:05:15,715 - DEBUG - Does NOT implement IProvideClassInfo/IProvideClassInfo2
+2024-12-02 18:05:15,715 - DEBUG - Release <POINTER(IUnknown) ptr=0x19c78391780 at 19c79606750>
+2024-12-02 18:05:15,715 - DEBUG - Default interface is {C74A3ADC-B727-4500-A84A-B526721C8B8C}
+2024-12-02 18:05:15,715 - DEBUG - Release <POINTER(IUnknown) ptr=0x19c7b472a90 at 19c79606850>
+2024-12-02 18:05:15,715 - DEBUG - GetModule(TLIBATTR(GUID={C866CA3A-32F7-11D2-9602-00C04F8EE628}, Version=5.4, LCID=0, FLags=0x8))
+2024-12-02 18:05:15,715 - DEBUG - Implements default interface from typeinfo <class 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4.ISpeechObjectToken'>
+2024-12-02 18:05:15,715 - DEBUG - Final result is <POINTER(ISpeechObjectToken) ptr=0x19c7b472a90 at 19c79606750>
+2024-12-02 18:05:15,715 - DEBUG - Release <POINTER(IDispatch) ptr=0x19c7b472a90 at 19c796067d0>
+2024-12-02 18:05:15,715 - DEBUG - Release <POINTER(ITypeInfo) ptr=0x19c78391780 at 19c79606950>
+2024-12-02 18:05:15,715 - DEBUG - Release <POINTER(ITypeLib) ptr=0x19c77277fe0 at 19c79606850>
+2024-12-02 18:05:15,715 - DEBUG - Release <POINTER(IDispatch) ptr=0x19c7b472a90 at 19c796065d0>
+2024-12-02 18:05:15,715 - DEBUG - wrap_outparam(<POINTER(IDispatch) ptr=0x19c7b471d10 at 19c796065d0>)
+2024-12-02 18:05:15,715 - DEBUG - GetBestInterface(<POINTER(IDispatch) ptr=0x19c7b471d10 at 19c796065d0>)
+2024-12-02 18:05:15,715 - DEBUG - Does NOT implement IProvideClassInfo, trying IProvideClassInfo2
+2024-12-02 18:05:15,715 - DEBUG - Does NOT implement IProvideClassInfo/IProvideClassInfo2
+2024-12-02 18:05:15,715 - DEBUG - Release <POINTER(IUnknown) ptr=0x19c78391780 at 19c79606950>
+2024-12-02 18:05:15,715 - DEBUG - Default interface is {C74A3ADC-B727-4500-A84A-B526721C8B8C}
+2024-12-02 18:05:15,715 - DEBUG - Release <POINTER(IUnknown) ptr=0x19c7b471d10 at 19c79606a50>
+2024-12-02 18:05:15,715 - DEBUG - GetModule(TLIBATTR(GUID={C866CA3A-32F7-11D2-9602-00C04F8EE628}, Version=5.4, LCID=0, FLags=0x8))
+2024-12-02 18:05:15,715 - DEBUG - Implements default interface from typeinfo <class 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4.ISpeechObjectToken'>
+2024-12-02 18:05:15,715 - DEBUG - Final result is <POINTER(ISpeechObjectToken) ptr=0x19c7b471d10 at 19c79606950>
+2024-12-02 18:05:15,715 - DEBUG - Release <POINTER(IDispatch) ptr=0x19c7b471d10 at 19c79606650>
+2024-12-02 18:05:15,715 - DEBUG - Release <POINTER(ITypeInfo) ptr=0x19c78391780 at 19c796067d0>
+2024-12-02 18:05:15,715 - DEBUG - Release <POINTER(ITypeLib) ptr=0x19c77277fe0 at 19c79606a50>
+2024-12-02 18:05:15,715 - DEBUG - Release <POINTER(IDispatch) ptr=0x19c7b471d10 at 19c796065d0>
+2024-12-02 18:05:15,715 - DEBUG - Release <POINTER(ISpeechObjectToken) ptr=0x19c7b472a90 at 19c79606750>
+2024-12-02 18:05:15,715 - DEBUG - Release <POINTER(IEnumVARIANT) ptr=0x19c7b479e80 at 19c79606450>
+2024-12-02 18:05:15,715 - DEBUG - Release <POINTER(ISpeechObjectToken) ptr=0x19c7b471d10 at 19c79606950>
+2024-12-02 18:05:15,793 - DEBUG - Request options: {'method': 'post', 'url': '/openai/v1/chat/completions', 'files': None, 'json_data': {'messages': [{'role': 'user', 'content': 'Say hello briefly'}], 'model': 'llama3-70b-8192', 'max_tokens': 50}}
+2024-12-02 18:05:15,816 - DEBUG - Sending HTTP Request: POST https://api.groq.com/openai/v1/chat/completions
+2024-12-02 18:05:15,816 - DEBUG - connect_tcp.started host='api.groq.com' port=443 local_address=None timeout=5.0 socket_options=None
+2024-12-02 18:05:15,840 - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000019C7962FC90>
+2024-12-02 18:05:15,840 - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x0000019C79649880> server_hostname='api.groq.com' timeout=5.0
+2024-12-02 18:05:15,841 - DEBUG - start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000019C7A5B5850>
+2024-12-02 18:05:15,841 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2024-12-02 18:05:15,841 - DEBUG - send_request_headers.complete
+2024-12-02 18:05:15,856 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2024-12-02 18:05:15,856 - DEBUG - send_request_body.complete
+2024-12-02 18:05:15,856 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2024-12-02 18:05:16,215 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Mon, 02 Dec 2024 12:35:15 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'Cache-Control', b'private, max-age=0, no-store, no-cache, must-revalidate'), (b'vary', b'Origin'), (b'x-ratelimit-limit-requests', b'14400'), (b'x-ratelimit-limit-tokens', b'6000'), (b'x-ratelimit-remaining-requests', b'14399'), (b'x-ratelimit-remaining-tokens', b'5991'), (b'x-ratelimit-reset-requests', b'6s'), (b'x-ratelimit-reset-tokens', b'90ms'), (b'x-request-id', b'req_01je3nw9x5epgbdxb3zsps3z10'), (b'via', b'1.1 google'), (b'alt-svc', b'h3=":443"; ma=86400'), (b'CF-Cache-Status', b'DYNAMIC'), (b'Set-Cookie', b'__cf_bm=I.8PfEAlHoGOXF7TZeH0ILGuRecUmywVB0MJKqARJDE-1733142915-1.0.1.1-oj6yM4AjFcoMOLY7t0AD6SmIy3CNZ8qsYdZXKBJ5m8sLAxavH2vTcXT4k0EqRQyiAL2hMrw_OKcvlQNN.KSuzg; path=/; expires=Mon, 02-Dec-24 13:05:15 GMT; domain=.groq.com; HttpOnly; Secure; SameSite=None'), (b'Server', b'cloudflare'), (b'CF-RAY', b'8ebb5b11d9945471-DEL'), (b'Content-Encoding', b'gzip')])
+2024-12-02 18:05:16,215 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 18:05:16,215 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2024-12-02 18:05:16,215 - DEBUG - receive_response_body.complete
+2024-12-02 18:05:16,215 - DEBUG - response_closed.started
+2024-12-02 18:05:16,215 - DEBUG - response_closed.complete
+2024-12-02 18:05:16,215 - DEBUG - HTTP Response: POST https://api.groq.com/openai/v1/chat/completions "200 OK" Headers({'date': 'Mon, 02 Dec 2024 12:35:15 GMT', 'content-type': 'application/json', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate', 'vary': 'Origin', 'x-ratelimit-limit-requests': '14400', 'x-ratelimit-limit-tokens': '6000', 'x-ratelimit-remaining-requests': '14399', 'x-ratelimit-remaining-tokens': '5991', 'x-ratelimit-reset-requests': '6s', 'x-ratelimit-reset-tokens': '90ms', 'x-request-id': 'req_01je3nw9x5epgbdxb3zsps3z10', 'via': '1.1 google', 'alt-svc': 'h3=":443"; ma=86400', 'cf-cache-status': 'DYNAMIC', 'set-cookie': '__cf_bm=I.8PfEAlHoGOXF7TZeH0ILGuRecUmywVB0MJKqARJDE-1733142915-1.0.1.1-oj6yM4AjFcoMOLY7t0AD6SmIy3CNZ8qsYdZXKBJ5m8sLAxavH2vTcXT4k0EqRQyiAL2hMrw_OKcvlQNN.KSuzg; path=/; expires=Mon, 02-Dec-24 13:05:15 GMT; domain=.groq.com; HttpOnly; Secure; SameSite=None', 'server': 'cloudflare', 'cf-ray': '8ebb5b11d9945471-DEL', 'content-encoding': 'gzip'})
+2024-12-02 18:05:16,215 - INFO - Groq client successfully initialized.
+2024-12-02 18:05:16,215 - INFO - Assistant: Good Evening! I'm your virtual assistant. Press Ctrl+Alt+S to start listening.
+2024-12-02 18:05:16,231 - DEBUG - wrap_outparam(<POINTER(ISpeechObjectToken) ptr=0x19c744a2480 at 19c7a5d00d0>)
+2024-12-02 18:05:16,231 - DEBUG - Release <POINTER(ISpeechObjectToken) ptr=0x19c744a2480 at 19c7a5d00d0>
+2024-12-02 18:05:16,232 - DEBUG - wrap_outparam(<POINTER(ISpeechObjectTokens) ptr=0x19c7a9dc290 at 19c7a5d00d0>)
+2024-12-02 18:05:16,232 - DEBUG - Release <POINTER(IUnknown) ptr=0x19c7b479640 at 19c7a5d04d0>
+2024-12-02 18:05:16,232 - DEBUG - wrap_outparam(<POINTER(IDispatch) ptr=0x19c7b472f10 at 19c7a5d05d0>)
+2024-12-02 18:05:16,232 - DEBUG - GetBestInterface(<POINTER(IDispatch) ptr=0x19c7b472f10 at 19c7a5d05d0>)
+2024-12-02 18:05:16,232 - DEBUG - Does NOT implement IProvideClassInfo, trying IProvideClassInfo2
+2024-12-02 18:05:16,232 - DEBUG - Does NOT implement IProvideClassInfo/IProvideClassInfo2
+2024-12-02 18:05:16,232 - DEBUG - Release <POINTER(IUnknown) ptr=0x19c78391780 at 19c7a5d07d0>
+2024-12-02 18:05:16,232 - DEBUG - Default interface is {C74A3ADC-B727-4500-A84A-B526721C8B8C}
+2024-12-02 18:05:16,232 - DEBUG - Release <POINTER(IUnknown) ptr=0x19c7b472f10 at 19c7a5d08d0>
+2024-12-02 18:05:16,232 - DEBUG - GetModule(TLIBATTR(GUID={C866CA3A-32F7-11D2-9602-00C04F8EE628}, Version=5.4, LCID=0, FLags=0x8))
+2024-12-02 18:05:16,232 - DEBUG - Implements default interface from typeinfo <class 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4.ISpeechObjectToken'>
+2024-12-02 18:05:16,232 - DEBUG - Final result is <POINTER(ISpeechObjectToken) ptr=0x19c7b472f10 at 19c7a5d07d0>
+2024-12-02 18:05:16,232 - DEBUG - Release <POINTER(IDispatch) ptr=0x19c7b472f10 at 19c7a5d0750>
+2024-12-02 18:05:16,232 - DEBUG - Release <POINTER(ITypeInfo) ptr=0x19c78391780 at 19c7a5d0850>
+2024-12-02 18:05:16,232 - DEBUG - Release <POINTER(ITypeLib) ptr=0x19c77277fe0 at 19c7a5d08d0>
+2024-12-02 18:05:16,232 - DEBUG - Release <POINTER(IDispatch) ptr=0x19c7b472f10 at 19c7a5d05d0>
+2024-12-02 18:05:16,232 - DEBUG - wrap_outparam(<POINTER(IDispatch) ptr=0x19c7b472100 at 19c7a5d05d0>)
+2024-12-02 18:05:16,232 - DEBUG - GetBestInterface(<POINTER(IDispatch) ptr=0x19c7b472100 at 19c7a5d05d0>)
+2024-12-02 18:05:16,232 - DEBUG - Does NOT implement IProvideClassInfo, trying IProvideClassInfo2
+2024-12-02 18:05:16,232 - DEBUG - Does NOT implement IProvideClassInfo/IProvideClassInfo2
+2024-12-02 18:05:16,232 - DEBUG - Release <POINTER(IUnknown) ptr=0x19c78391780 at 19c7a5d0650>
+2024-12-02 18:05:16,232 - DEBUG - Default interface is {C74A3ADC-B727-4500-A84A-B526721C8B8C}
+2024-12-02 18:05:16,232 - DEBUG - Release <POINTER(IUnknown) ptr=0x19c7b472100 at 19c7a5d0750>
+2024-12-02 18:05:16,232 - DEBUG - GetModule(TLIBATTR(GUID={C866CA3A-32F7-11D2-9602-00C04F8EE628}, Version=5.4, LCID=0, FLags=0x8))
+2024-12-02 18:05:16,232 - DEBUG - Implements default interface from typeinfo <class 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4.ISpeechObjectToken'>
+2024-12-02 18:05:16,232 - DEBUG - Final result is <POINTER(ISpeechObjectToken) ptr=0x19c7b472100 at 19c7a5d0650>
+2024-12-02 18:05:16,232 - DEBUG - Release <POINTER(IDispatch) ptr=0x19c7b472100 at 19c7a5d0450>
+2024-12-02 18:05:16,232 - DEBUG - Release <POINTER(ITypeInfo) ptr=0x19c78391780 at 19c7a5d0850>
+2024-12-02 18:05:16,232 - DEBUG - Release <POINTER(ITypeLib) ptr=0x19c77277fe0 at 19c7a5d0750>
+2024-12-02 18:05:16,232 - DEBUG - Release <POINTER(IDispatch) ptr=0x19c7b472100 at 19c7a5d05d0>
+2024-12-02 18:05:16,232 - DEBUG - Release <POINTER(ISpeechObjectToken) ptr=0x19c7b472f10 at 19c7a5d07d0>
+2024-12-02 18:05:16,232 - DEBUG - Release <POINTER(IEnumVARIANT) ptr=0x19c7b479640 at 19c7a5d03d0>
+2024-12-02 18:05:16,232 - DEBUG - Release <POINTER(ISpeechObjectTokens) ptr=0x19c7a9dc290 at 19c7a5d00d0>
+2024-12-02 18:05:16,232 - DEBUG - Release <POINTER(ISpeechObjectToken) ptr=0x19c7b472100 at 19c7a5d0650>
+2024-12-02 18:05:23,797 - INFO - Started listening...
+2024-12-02 18:05:25,078 - INFO - Listening...
+2024-12-02 18:05:29,690 - INFO - You said: hey how r u
+2024-12-02 18:05:29,918 - DEBUG - Request options: {'method': 'post', 'url': '/openai/v1/chat/completions', 'files': None, 'json_data': {'messages': [{'role': 'user', 'content': 'hey how r u'}], 'model': 'llama3-70b-8192', 'max_tokens': 300}}
+2024-12-02 18:05:29,928 - DEBUG - Sending HTTP Request: POST https://api.groq.com/openai/v1/chat/completions
+2024-12-02 18:05:29,928 - DEBUG - close.started
+2024-12-02 18:05:29,928 - DEBUG - close.complete
+2024-12-02 18:05:29,928 - DEBUG - connect_tcp.started host='api.groq.com' port=443 local_address=None timeout=5.0 socket_options=None
+2024-12-02 18:05:29,960 - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000019C7DB69590>
+2024-12-02 18:05:29,960 - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x0000019C79649880> server_hostname='api.groq.com' timeout=5.0
+2024-12-02 18:05:29,977 - DEBUG - start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000019C7DB695D0>
+2024-12-02 18:05:29,977 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2024-12-02 18:05:29,977 - DEBUG - send_request_headers.complete
+2024-12-02 18:05:29,977 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2024-12-02 18:05:29,977 - DEBUG - send_request_body.complete
+2024-12-02 18:05:29,977 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2024-12-02 18:05:30,515 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Mon, 02 Dec 2024 12:35:29 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'Cache-Control', b'private, max-age=0, no-store, no-cache, must-revalidate'), (b'vary', b'Origin'), (b'x-ratelimit-limit-requests', b'14400'), (b'x-ratelimit-limit-tokens', b'6000'), (b'x-ratelimit-remaining-requests', b'14399'), (b'x-ratelimit-remaining-tokens', b'5993'), (b'x-ratelimit-reset-requests', b'6s'), (b'x-ratelimit-reset-tokens', b'70ms'), (b'x-request-id', b'req_01je3nwqpne2bs5vj3xvmkxa0n'), (b'via', b'1.1 google'), (b'alt-svc', b'h3=":443"; ma=86400'), (b'CF-Cache-Status', b'DYNAMIC'), (b'Server', b'cloudflare'), (b'CF-RAY', b'8ebb5b6a1e8d8999-DEL'), (b'Content-Encoding', b'gzip')])
+2024-12-02 18:05:30,515 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 18:05:30,515 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2024-12-02 18:05:30,515 - DEBUG - receive_response_body.complete
+2024-12-02 18:05:30,515 - DEBUG - response_closed.started
+2024-12-02 18:05:30,515 - DEBUG - response_closed.complete
+2024-12-02 18:05:30,515 - DEBUG - HTTP Response: POST https://api.groq.com/openai/v1/chat/completions "200 OK" Headers({'date': 'Mon, 02 Dec 2024 12:35:29 GMT', 'content-type': 'application/json', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate', 'vary': 'Origin', 'x-ratelimit-limit-requests': '14400', 'x-ratelimit-limit-tokens': '6000', 'x-ratelimit-remaining-requests': '14399', 'x-ratelimit-remaining-tokens': '5993', 'x-ratelimit-reset-requests': '6s', 'x-ratelimit-reset-tokens': '70ms', 'x-request-id': 'req_01je3nwqpne2bs5vj3xvmkxa0n', 'via': '1.1 google', 'alt-svc': 'h3=":443"; ma=86400', 'cf-cache-status': 'DYNAMIC', 'server': 'cloudflare', 'cf-ray': '8ebb5b6a1e8d8999-DEL', 'content-encoding': 'gzip'})
+2024-12-02 18:05:31,744 - INFO - Listening...
+2024-12-02 18:05:36,791 - WARNING - Listening timed out.
+2024-12-02 18:05:38,009 - INFO - Listening...
+2024-12-02 18:05:45,308 - INFO - You said: hey how r u
+2024-12-02 18:05:45,556 - DEBUG - Request options: {'method': 'post', 'url': '/openai/v1/chat/completions', 'files': None, 'json_data': {'messages': [{'role': 'user', 'content': 'hey how r u'}], 'model': 'llama3-70b-8192', 'max_tokens': 300}}
+2024-12-02 18:05:45,556 - DEBUG - Sending HTTP Request: POST https://api.groq.com/openai/v1/chat/completions
+2024-12-02 18:05:45,556 - DEBUG - close.started
+2024-12-02 18:05:45,556 - DEBUG - close.complete
+2024-12-02 18:05:45,556 - DEBUG - connect_tcp.started host='api.groq.com' port=443 local_address=None timeout=5.0 socket_options=None
+2024-12-02 18:05:45,594 - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000019C7A5E89D0>
+2024-12-02 18:05:45,594 - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x0000019C79649880> server_hostname='api.groq.com' timeout=5.0
+2024-12-02 18:05:45,599 - DEBUG - start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000019C7A5E8A10>
+2024-12-02 18:05:45,599 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2024-12-02 18:05:45,610 - DEBUG - send_request_headers.complete
+2024-12-02 18:05:45,610 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2024-12-02 18:05:45,611 - DEBUG - send_request_body.complete
+2024-12-02 18:05:45,611 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2024-12-02 18:05:46,104 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Mon, 02 Dec 2024 12:35:45 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'Cache-Control', b'private, max-age=0, no-store, no-cache, must-revalidate'), (b'vary', b'Origin'), (b'x-ratelimit-limit-requests', b'14400'), (b'x-ratelimit-limit-tokens', b'6000'), (b'x-ratelimit-remaining-requests', b'14399'), (b'x-ratelimit-remaining-tokens', b'5993'), (b'x-ratelimit-reset-requests', b'6s'), (b'x-ratelimit-reset-tokens', b'70ms'), (b'x-request-id', b'req_01je3nx6ysfq9rrf60cdn00h4m'), (b'via', b'1.1 google'), (b'alt-svc', b'h3=":443"; ma=86400'), (b'CF-Cache-Status', b'DYNAMIC'), (b'Server', b'cloudflare'), (b'CF-RAY', b'8ebb5bcbcbda5505-DEL'), (b'Content-Encoding', b'gzip')])
+2024-12-02 18:05:46,104 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 18:05:46,105 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2024-12-02 18:05:46,106 - DEBUG - receive_response_body.complete
+2024-12-02 18:05:46,106 - DEBUG - response_closed.started
+2024-12-02 18:05:46,106 - DEBUG - response_closed.complete
+2024-12-02 18:05:46,106 - DEBUG - HTTP Response: POST https://api.groq.com/openai/v1/chat/completions "200 OK" Headers({'date': 'Mon, 02 Dec 2024 12:35:45 GMT', 'content-type': 'application/json', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate', 'vary': 'Origin', 'x-ratelimit-limit-requests': '14400', 'x-ratelimit-limit-tokens': '6000', 'x-ratelimit-remaining-requests': '14399', 'x-ratelimit-remaining-tokens': '5993', 'x-ratelimit-reset-requests': '6s', 'x-ratelimit-reset-tokens': '70ms', 'x-request-id': 'req_01je3nx6ysfq9rrf60cdn00h4m', 'via': '1.1 google', 'alt-svc': 'h3=":443"; ma=86400', 'cf-cache-status': 'DYNAMIC', 'server': 'cloudflare', 'cf-ray': '8ebb5bcbcbda5505-DEL', 'content-encoding': 'gzip'})
+2024-12-02 18:05:47,363 - INFO - Listening...
+2024-12-02 18:05:52,402 - WARNING - Listening timed out.
+2024-12-02 18:05:53,679 - INFO - Listening...
+2024-12-02 18:05:55,510 - DEBUG - Calling CoUninitialize()
+2024-12-02 18:05:55,510 - DEBUG - CoUninitialize() done.
